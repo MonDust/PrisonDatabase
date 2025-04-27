@@ -1,5 +1,5 @@
 /*
-    Author: O. Paszkiewicz 187583
+    Author: O. Paszkiewicz
     Date of Preparation: 14-12-2023
     Subject: Prison Management System
     Description: The Databse for a Prison, a file creating all the tables.
